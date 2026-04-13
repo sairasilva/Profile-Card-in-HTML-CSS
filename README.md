@@ -1,6 +1,6 @@
-👤 Profile Card UI
+# 👤 Profile Card UI
 
-✨ Descrição do projeto:
+## ✨ Descrição do projeto:
 
 Este projeto consiste em uma interface de cartão de perfil (Profile Card UI) desenvolvida com HTML e CSS. O objetivo é apresentar informações básicas de um usuário de forma visual, moderna e organizada.
 
@@ -10,7 +10,7 @@ A interface utiliza um design simples e responsivo, com foco em layout centraliz
 
 ---
 
-🎯 Objetivo
+## 🎯 Objetivo
 - Praticar a estruturação de páginas web utilizando HTML5.
 - Aplicar estilos visuais e layout utilizando CSS3.
 - Desenvolver um componente de interface reutilizável.
@@ -19,7 +19,7 @@ A interface utiliza um design simples e responsivo, com foco em layout centraliz
 
 ---
 
-🧠 Tecnologias utilizadas
+## 🧠 Tecnologias utilizadas
 
 - HTML5 – Estrutura da página  
 - CSS3 – Estilização e layout  
